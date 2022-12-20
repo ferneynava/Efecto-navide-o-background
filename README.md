@@ -123,7 +123,7 @@ Project Link: [https://github.com/ferneynava/Efecto-navide-o-background](hhttps:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/ferneynava/Efecto-navide-o-background.svg?style=for-the-badge
 [contributors-url]: https://github.com/ferneynava/Efecto-navide-o-background/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ferneynava/Efecto-navide-o-background/graphs.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/ferneynava/Efecto-navide-o-background.svg?style=for-the-badge
 [forks-url]: https://github.com/ferneynava/Efecto-navide-o-background/network/members
 [stars-shield]: https://img.shields.io/github/stars/ferneynava/Efecto-navide-o-background.svg?style=for-the-badge
 [stars-url]: https://github.com/ferneynava/Efecto-navide-o-background/stargazers
